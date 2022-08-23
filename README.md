@@ -1,4 +1,4 @@
-#formulario de contacto
+# Formulario de contacto
 
 1. Se solicitan datos.
 2. Se validan datos.
